@@ -14,5 +14,6 @@ public class Test07 {
     System.out.println("老家伙3");
     System.out.println("老家伙4");
     System.out.println("老家伙5");
+    System.out.println("老家伙6");
   }
 }
