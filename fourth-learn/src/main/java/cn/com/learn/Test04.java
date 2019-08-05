@@ -12,17 +12,17 @@ import java.util.List;
 
 public class Test04 {
     public static void main(String[] args){
-//        List<Person> collection = new ArrayList<Person>(16);
-//        putPerson(collection);
-//        System.out.println(collection);
-//
-//        Integer a = 1;
-//        add(a);
-//        System.out.println(a);
-//
-//        StringBuffer b = new StringBuffer();
-//        append(b);
-//        System.out.println(b);
+        List<Person> collection = new ArrayList<Person>(16);
+        putPerson(collection);
+        System.out.println(collection);
+
+        Integer a = 1;
+        add(a);
+        System.out.println(a);
+
+        StringBuffer b = new StringBuffer();
+        append(b);
+        System.out.println(b);
 
         Person person = new Person();
         person.setName("雄安吗");
