@@ -10,6 +10,7 @@ import java.util.Map;
  */
 public class Test08 {
     public static void main(String[] args){
+        //
         Map<String, Object> map = new HashMap<String, Object>();
         map.put("凯旋", 20);
         map.put("宿舍", "13栋2701");
